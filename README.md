@@ -24,7 +24,7 @@ I'm a passionate Android Engineer focused on building robust, scalable, and high
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/laion-silverio/)
+- **LinkedIn:** https://www.linkedin.com/in/laion-silverio/
 - **Email:** laionsilverio@gmail.com
 
 ---
